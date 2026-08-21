@@ -1,0 +1,48 @@
+# Visual Studio and editor files
+.vs/
+*.user
+*.suo
+.vscode/
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Local configuration and secrets
+appsettings.*.json
+!appsettings.json
+secrets.json
+secrets.*.json
+*.env
+.env
+.env.*
+
+# Logs and diagnostics
+*.log
+logs/
+
+# Test and coverage output
+TestResults/
+coverage/
+
+# Publish output
+publish/
+*.pubxml.user
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.backup
+*.orig
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NuGet packages
+*.nupkg
+*.snupkg
+
+# Coverage files
+*.coverage
+*.coveragexml
